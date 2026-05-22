@@ -1,6 +1,6 @@
 
 
-# ⚡ Smart Energy Management System
+# ⚡ Smart Energy Management System.
 
 <img width="2535" height="1206" alt="image" src="https://github.com/user-attachments/assets/b55ee84a-b164-4edc-9222-638265d6faea" />
 
